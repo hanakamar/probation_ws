@@ -6,4 +6,4 @@ float32 w           # Width of bounding box
 float32 h           # Height of bounding box
 float32 conf
 uint16 label_id     
-source ~/.bashrc
+string label_name
