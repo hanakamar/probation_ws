@@ -1,6 +1,6 @@
 # Probation Task: Going Through Gate with Unity Simulation
 - Applicant: Hana Kamarudeen
-- Video: [https://drive.google.com/file/d/1Z53qzfEDD625G4rnZ3P15ugKspY23H5Q/view?usp=sharing](url)
+- [Video](https://drive.google.com/file/d/1Z53qzfEDD625G4rnZ3P15ugKspY23H5Q/view?usp=sharing)
 
 ## Build & Run 
 **1. Navigate to your workspace:**
